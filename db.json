@@ -1,0 +1,1 @@
+{"usuarios": {"1": {"id": 1, "nome": "Professor Mohsen", "tipo": "professor"}, "2": {"id": 101, "nome": "Guilherme", "tipo": "aluno"}, "3": {"id": 102, "nome": "Ana", "tipo": "aluno"}, "4": {"id": 103, "nome": "Pedro", "tipo": "aluno"}}, "atividades": {"1": {"titulo": "Atividade de Teste", "descricao": "Validando o TinyDB", "data_entrega": "2026-05-10", "status": "ativa"}}}
