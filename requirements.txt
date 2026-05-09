@@ -1,1 +1,5 @@
 tinydb
+fastapi
+uvicorn
+pydantic
+email-validator
